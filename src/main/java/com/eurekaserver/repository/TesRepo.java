@@ -11,4 +11,7 @@ public class TesRepo {
 		return "Welcome to bikkadIT";
 	}
 
+	public String myDataFirstg() {
+		return "Welcome to bikkadIT";
+	}
 }
